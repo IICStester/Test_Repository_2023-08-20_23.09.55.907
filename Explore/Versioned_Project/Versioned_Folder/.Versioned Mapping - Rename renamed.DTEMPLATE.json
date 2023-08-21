@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "5dMByDmr9JWbVQaQB0wFUl",
+    "id" : "7r5qdCd1kiljYYNpIHjJSO",
     "name" : "Versioned Mapping - Rename renamed",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010002170000000002T5"
+        "repoHandle" : "010002170000000002TO"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -23,6 +23,6 @@
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2023-08-21T06:11:56.979Z",
+  "updateTime" : "2023-08-21T06:20:14.177Z",
   "objectRefs" : [ ]
 }
